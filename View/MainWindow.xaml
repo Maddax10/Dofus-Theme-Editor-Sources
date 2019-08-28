@@ -77,8 +77,8 @@
                             <RowDefinition Height="Auto"/>
                             <RowDefinition />
                         </Grid.RowDefinitions>
-                        <Border Background="{Binding BgColor}" Width="550" Height="15" Grid.Row="0"/>
-                        <Label Content="Teinte"  Style="{DynamicResource Label4Center}" Grid.Row="1"/>
+                        <Border Background="{Binding BgColor}" Height="20" Grid.Row="0"/>
+                        <Label Content="Teinte" Style="{DynamicResource Label4Center}" Grid.Row="1"/>
                         <Slider Value="{Binding TeinteUser}" Maximum="{Binding MaxT}" Minimum="{Binding MinT}" TickFrequency="{Binding PasT}" Style="{DynamicResource Sliders}" Grid.Row="2"/>
                     </Grid>
                 </Border>

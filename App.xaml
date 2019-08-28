@@ -298,19 +298,18 @@
         <SolidColorBrush x:Key="SliderThumb.Pressed.Border" Color="#56752D"/>
         <SolidColorBrush x:Key="SliderThumb.Disabled.Background" Color="#FFF0F0F0"/>
         <SolidColorBrush x:Key="SliderThumb.Disabled.Border" Color="#FFF0F0F0"/>
-        <SolidColorBrush x:Key="SliderThumb.Static.Background" Color="#86b644"/>
-        <SolidColorBrush x:Key="SliderThumb.Static.Border" Color="#86b644"/>
+        <SolidColorBrush x:Key="SliderThumb.Static.Background" Color="#569500"/>
+        <SolidColorBrush x:Key="SliderThumb.Static.Border" Color="#569500"/>
         <SolidColorBrush x:Key="SliderThumb.Track.Border" Color="#86b644"/>
         <SolidColorBrush x:Key="SliderThumb.Track.Background" Color="White"/>
 
         <!-- ................SliderThumbHorizontalTop................ -->
         <ControlTemplate x:Key="SliderThumbHorizontalTop" TargetType="{x:Type Thumb}">
-            <Border CornerRadius="3">
+           
                 <Grid HorizontalAlignment="Center" UseLayoutRounding="True" VerticalAlignment="Center">
                     <Path x:Name="grip" Data="M 0,6 C0,6 5.5,0 5.5,0 5.5,0 11,6 11,6 11,6 11,18 11,18 11,18 0,18 0,18 0,18 0,6 0,6 z" Fill="{StaticResource SliderThumb.Static.Background}" Stretch="Fill" SnapsToDevicePixels="True" Stroke="{StaticResource SliderThumb.Static.Border}" StrokeThickness="1" UseLayoutRounding="True" VerticalAlignment="Center"/>
                 </Grid>
-            </Border>
-
+            
             <ControlTemplate.Triggers>
                 <Trigger Property="IsMouseOver" Value="true">
                     <Setter Property="Fill" TargetName="grip" Value="{StaticResource SliderThumb.MouseOver.Background}"/>
@@ -330,11 +329,11 @@
 
         <!-- ................SliderThumbHorizontalBottom................ -->
         <ControlTemplate x:Key="SliderThumbHorizontalBottom" TargetType="{x:Type Thumb}">
-            <Border CornerRadius="3">
+            
                 <Grid HorizontalAlignment="Center" UseLayoutRounding="True" VerticalAlignment="Center">
                     <Path x:Name="grip" Data="M 0,12 C0,12 5.5,18 5.5,18 5.5,18 11,12 11,12 11,12 11,0 11,0 11,0 0,0 0,0 0,0 0,12 0,12 z" Fill="{StaticResource SliderThumb.Static.Background}" Stretch="Fill" SnapsToDevicePixels="True" Stroke="{StaticResource SliderThumb.Static.Border}" StrokeThickness="1" UseLayoutRounding="True" VerticalAlignment="Center"/>
                 </Grid>
-            </Border>
+            
             <ControlTemplate.Triggers>
                 <Trigger Property="IsMouseOver" Value="true">
                     <Setter Property="Fill" TargetName="grip" Value="{StaticResource SliderThumb.MouseOver.Background}"/>
@@ -451,7 +450,7 @@
             <Setter Property="Template" Value="{StaticResource SliderHorizontal}"/>
             <Setter Property="TickPlacement" Value="Both"/>
             <Setter Property="IsSnapToTickEnabled" Value="True"/>
-            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Margin" Value="10 0"/>
         </Style>
         
         <!-- .......................................................... -->
