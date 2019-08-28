@@ -5,7 +5,7 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:local="clr-namespace:Dofus_Theme_Editor.View"
     mc:Ignorable="d"
-    Title="Dofus Thème Editor" Height="840.553" Width="950" DataContext="{StaticResource MVM}" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Icon="{Binding IconSource}" Style="{DynamicResource WindowBase2}">
+    Title="Dofus Thème Editor" Height="790" Width="950" DataContext="{StaticResource MVM}" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None" Icon="{Binding IconSource}" Style="{DynamicResource WindowBase2}">
     <!-- ............................................................. -->
     <!-- ..........................Grille 1........................... -->
     <!-- ............................................................. -->
