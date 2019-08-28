@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Dofus_Theme_Editor.View"
         mc:Ignorable="d"
-        Title="Modifications terminées !" Height="150" Width="450" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize" Style="{DynamicResource WindowBase1}">
+        Title="Modifications terminées !" Height="150" Width="450" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize" DataContext="{StaticResource FVM}" Style="{DynamicResource WindowBase1}">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="30"/>
@@ -28,7 +28,7 @@
 
         <Label Content="Modification du thème terminé !" Style="{DynamicResource Label2Center}" Grid.Row="1"/>
 
-        <Button Content="Terminer" Style="{DynamicResource BigButton}" Template="{DynamicResource RoundedButton}" Grid.Row="2"/>
+        <Button Content="Terminer" Command="{Binding Close_Window_Command}" Style="{DynamicResource BigButton}" Template="{DynamicResource RoundedButton}" Grid.Row="2"/>
 
     </Grid>
 </Window>

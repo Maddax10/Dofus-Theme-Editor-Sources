@@ -6,6 +6,7 @@
             StartupUri="View/MainWindow.xaml">
     <Application.Resources>
         <VM:MainViewModel x:Key="MVM"/>
+        <VM:FinishModificationViewModel x:Key="FVM"/>
 
         <!-- ................Border Keys................ -->
         <SolidColorBrush x:Key="Window.Border.Color" Color="#569500"/>

@@ -12,6 +12,7 @@ using GF = Toolbox.Fichiers.GestionFichiers;
 using GC = Toolbox.Controls.GestionControls;
 using GW = Toolbox.GestionWindow.GestionWindow;
 using Toolbox.MVVM.Commands;
+using System.Windows;
 
 namespace Dofus_Theme_Editor.ViewModels
 {
@@ -556,6 +557,25 @@ namespace Dofus_Theme_Editor.ViewModels
             }
         }
 
+        // ......................CountImageModified...................... //
+        private FinishModificationWindow _fMW_Instance;
+
+        public FinishModificationWindow FMW_Instance
+        {
+            get
+            {
+                return _fMW_Instance;
+            }
+            set
+            {
+                if(value != _fMW_Instance)
+                {
+                    _fMW_Instance = value;
+                    RaisePropertyChanged(nameof(FMW_Instance));
+                }
+            }
+        }
+
         #endregion
 
         #region Constantes
@@ -999,13 +1019,25 @@ namespace Dofus_Theme_Editor.ViewModels
             //Changement du fond du tchat
             ModifyColorXml(Folder_Theme_Path + "\\colors.xml");
 
-            FinishModificationWindow finishView = new FinishModificationWindow();
-            finishView.Show();
-            Messenger<FinishModificationWindow>.Instance.Send(finishView);
+            Display_FMW();
 
+            Send_FMW_Instance();
+            
             GF.Play_Finish_Sound();
 
         }
+
+        private void Send_FMW_Instance()
+        {
+            Messenger<FinishModificationWindow>.Instance.Send(Groups.ViewModels, FMW_Instance);
+        }
+
+        private void Display_FMW()
+        {
+            FMW_Instance = new FinishModificationWindow();
+            FMW_Instance.Show();
+        }
+
         //================================================================================================//
         private bool CanModifyAllImages()
         {

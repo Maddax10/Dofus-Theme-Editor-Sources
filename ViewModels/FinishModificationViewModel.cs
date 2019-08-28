@@ -12,7 +12,7 @@ using GW = Toolbox.GestionWindow.GestionWindow;
 
 namespace Dofus_Theme_Editor.ViewModels
 {
-    class FinishModificationVewModel : ViewModelBase
+    class FinishModificationViewModel : ViewModelBase
     {
         private FinishModificationWindow fMW;
 
@@ -43,7 +43,7 @@ namespace Dofus_Theme_Editor.ViewModels
             }
         } 
         #endregion
-        public FinishModificationVewModel()
+        public FinishModificationViewModel()
         {
             Messenger<FinishModificationWindow>.Instance.Register(Groups.ViewModels, Get_FMW_Instance);
         }

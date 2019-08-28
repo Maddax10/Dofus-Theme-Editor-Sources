@@ -89,7 +89,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="ViewModels\FinishModificationVewModel.cs" />
+    <Compile Include="ViewModels\FinishModificationViewModel.cs" />
     <Compile Include="View\FinishModificationWindow.xaml.cs">
       <DependentUpon>FinishModificationWindow.xaml</DependentUpon>
     </Compile>
