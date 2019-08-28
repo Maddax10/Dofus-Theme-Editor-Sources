@@ -1,0 +1,34 @@
+﻿<Window x:Class="Dofus_Theme_Editor.View.FinishModificationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Dofus_Theme_Editor.View"
+        mc:Ignorable="d"
+        Title="Modifications terminées !" Height="150" Width="450" WindowStartupLocation="CenterScreen" WindowStyle="None" ResizeMode="NoResize" Style="{DynamicResource WindowBase1}">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+
+        </Grid.RowDefinitions>
+        <Grid Style="{DynamicResource CloseGrid}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Dofus Thème Editor" Style="{DynamicResource Label4Left}"/>
+            <TextBlock Style="{DynamicResource TextBlockTop}" Grid.Column="1">
+                
+                <Button Content="X" Command="{Binding Close_Window_Command}" Style="{DynamicResource CloseButton}" Template="{DynamicResource RectangleButton}"  HorizontalAlignment="Right" />
+
+            </TextBlock>
+        </Grid>
+
+        <Label Content="Modification du thème terminé !" Style="{DynamicResource Label2Center}" Grid.Row="1"/>
+
+        <Button Content="Terminer" Style="{DynamicResource BigButton}" Template="{DynamicResource RoundedButton}" Grid.Row="2"/>
+
+    </Grid>
+</Window>

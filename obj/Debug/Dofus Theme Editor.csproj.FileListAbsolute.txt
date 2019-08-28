@@ -1,0 +1,69 @@
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.csprojAssemblyReference.cache
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\Dofus Theme Editor_MarkupCompile.cache
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\Dofus Theme Editor_MarkupCompile.lref
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\App.g.cs
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\bin\Debug\Dofus Theme Editor.exe.config
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\bin\Debug\Dofus Theme Editor.exe
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\bin\Debug\Dofus Theme Editor.pdb
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\bin\Debug\ToolBox.MVVM.dll
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\bin\Debug\ToolBox.MVVM.pdb
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\App.baml
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.g.resources
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.csproj.GenerateResource.cache
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.csproj.CopyComplete
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.exe
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.pdb
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\Dofus_Theme_Editor.Properties.Resources.resources
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\View\MainWindow.g.cs
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\View\MainWindow.baml
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\bin\Debug\System.IO.Packaging.dll
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\View\FinishModificationWindow.g.cs
+C:\Users\maxim\OneDrive\PROJETS\Dofus\Créateur de thèmes\Projet Visual Studio\Dofus Theme Editor\Dofus Theme Editor\obj\Debug\View\FinishModificationWindow.baml
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Dofus Theme Editor.exe.config
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Dofus Theme Editor.exe
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Dofus Theme Editor.pdb
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.csprojAssemblyReference.cache
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\View\FinishModificationWindow.g.cs
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\View\MainWindow.g.cs
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\App.g.cs
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor_MarkupCompile.cache
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor_MarkupCompile.lref
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\App.baml
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\View\FinishModificationWindow.baml
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\View\MainWindow.baml
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.g.resources
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus_Theme_Editor.Properties.Resources.resources
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.csproj.GenerateResource.cache
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.csproj.CopyComplete
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.exe
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.pdb
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Toolbox.dll
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Toolbox.pdb
+C:\Users\maxim\OneDrive\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Toolbox.dll.config
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.csprojAssemblyReference.cache
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\View\FinishModificationWindow.g.cs
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\View\MainWindow.g.cs
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\App.g.cs
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor_MarkupCompile.cache
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor_MarkupCompile.lref
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.exe
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.pdb
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Dofus Theme Editor.exe.config
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Dofus Theme Editor.exe
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Dofus Theme Editor.pdb
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Toolbox.dll
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Toolbox.pdb
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Toolbox.dll.config
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\App.baml
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\View\FinishModificationWindow.baml
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\View\MainWindow.baml
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.g.resources
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus_Theme_Editor.Properties.Resources.resources
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.csproj.GenerateResource.cache
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.csproj.CopyComplete
