@@ -157,7 +157,7 @@ namespace Dofus_Theme_Editor.ViewModels
                 }
             }
         }
-        
+
         // ......................ModifyCommand...................... //
         private double _valS;
         public double SaturationUser
@@ -177,7 +177,7 @@ namespace Dofus_Theme_Editor.ViewModels
                 }
             }
         }
-        
+
         //..........................//
         //        Luminosite        //
         //..........................//
@@ -442,7 +442,7 @@ namespace Dofus_Theme_Editor.ViewModels
                 if(value != _image_Previsu_Name)
                 {
                     _image_Previsu_Name = value;
-                    RaisePropertyChanged(nameof(Image_Previsu_Name)); 
+                    RaisePropertyChanged(nameof(Image_Previsu_Name));
                 }
             }
         }
@@ -604,7 +604,7 @@ namespace Dofus_Theme_Editor.ViewModels
             }
 
         }
-        
+
         // ......................ModifyCommand...................... //
         private RelayCommand _addCommand;
         public RelayCommand AddCommand
@@ -615,7 +615,7 @@ namespace Dofus_Theme_Editor.ViewModels
                 return _addCommand ?? (_addCommand = new RelayCommand(Load_Files, Can_Load_Files));
             }
         }
-        
+
         // ......................ModifyCommand...................... //
         private RelayCommand _apercuCommand;
         public RelayCommand ApercuCommand
@@ -626,7 +626,7 @@ namespace Dofus_Theme_Editor.ViewModels
             }
 
         }
-        
+
         // ......................ModifyCommand...................... //
         private RelayCommand _loadFilesCommand;
         public RelayCommand LoadFilesCommand
@@ -637,7 +637,7 @@ namespace Dofus_Theme_Editor.ViewModels
             }
 
         }
-        
+
         // ......................ModifyCommand...................... //
         private RelayCommand _getFileImagesNamesCommand;
         public RelayCommand GetFileImagesNamesCommand
@@ -647,7 +647,7 @@ namespace Dofus_Theme_Editor.ViewModels
                 return _getFileImagesNamesCommand ?? (_getFileImagesNamesCommand = new RelayCommand(Browse_File_ImageName, null));
             }
         }
-        
+
         // ......................ModifyCommand...................... //
         private RelayCommand _getFolderThemeCommand;
         public RelayCommand GetFolderThemeCommand
@@ -658,7 +658,7 @@ namespace Dofus_Theme_Editor.ViewModels
             }
 
         }
-        
+
         // ......................ModifyCommand...................... //
         private RelayCommand _deleteCommand;
 
@@ -934,7 +934,6 @@ namespace Dofus_Theme_Editor.ViewModels
                 }
                 return true;
             }
-            //On créé le fichier puis on écrit
 
             return false;
 
@@ -948,31 +947,17 @@ namespace Dofus_Theme_Editor.ViewModels
 
         private void Browse_FolderSearch()
         {
-            using(FolderBrowserDialog fbd = new FolderBrowserDialog())
-            {
-                fbd.RootFolder = Environment.SpecialFolder.ApplicationData;
-                fbd.Description = "Selectionner le fichier";
-                fbd.ShowNewFolderButton = true;
-                DialogResult result = fbd.ShowDialog();
-
-                if(result == DialogResult.OK)
-                    Folder_Theme_Path = fbd.SelectedPath;
-            }
+            Folder_Theme_Path = GF.Browse_Folder();
         }
         //================================================================================================//
         private void Browse_File_ImageName()
-        {//Ne pas oublier d'ajouter la référence de windows.forms et le using
-            using(OpenFileDialog ofd = new OpenFileDialog())
-            {
-                DialogResult result = ofd.ShowDialog();
-                if(result == DialogResult.OK)
-                    File_config_Txt_Path = ofd.FileName;
-            }
+        {
+            File_config_Txt_Path = GF.Browse_File();
         }
         //================================================================================================//
         private void GoAppdataFolder()
         {
-            Process.Start(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData) + @"\Dofus\ui\themes");
+            GF.Go_AppData_Folder();
         }
         //================================================================================================//
         private void Move_File(string item)
@@ -1022,7 +1007,7 @@ namespace Dofus_Theme_Editor.ViewModels
             Display_FMW();
 
             Send_FMW_Instance();
-            
+
             GF.Play_Finish_Sound();
 
         }
@@ -1073,7 +1058,7 @@ namespace Dofus_Theme_Editor.ViewModels
             bool isValid1 = (File_config_Txt_Path != "");
 
             //il doit y avoir "config.txt" à la fin de "File_config_Txt_Path"
-            bool isValid2 = File_config_Txt_Path.Length - 10 < 0 ? false : File_config_Txt_Path.Substring(File_config_Txt_Path.Length - 10, 10) == "config.txt";
+            bool isValid2 = File_config_Txt_Path.Length - 3 < 0 ? false : File_config_Txt_Path.Substring(File_config_Txt_Path.Length - 3, 3) == "txt";
 
             // Il faut que les images chargées soit != 0 et que le champ File_config_Txt_Path ne soit pas vide
             bool isValid3 = CountLoadedImage != ZeroImageCharged && !(File_config_Txt_Path == "");
