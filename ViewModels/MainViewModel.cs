@@ -1,18 +1,14 @@
 ﻿using Dofus_Theme_Editor.View;
 using System;
 using System.Collections.ObjectModel;
-using System.Diagnostics;
 using System.Drawing;
 using System.IO;
-using System.Windows.Forms;
-using Toolbox.Manipulation_Images.HSL;
+using Gestion_Images.Model;
 using Toolbox.MVVM.ViewModels;
 using Toolbox.Patterns.Mediator;
-using GF = Toolbox.Fichiers.GestionFichiers;
-using GC = Toolbox.Controls.GestionControls;
-using GW = Toolbox.GestionWindow.GestionWindow;
+using GF = GestionFichiers.GestionFichiers;
+using GW = Gestion_Windows.GestionWindow;
 using Toolbox.MVVM.Commands;
-using System.Windows;
 
 namespace Dofus_Theme_Editor.ViewModels
 {
@@ -736,7 +732,7 @@ namespace Dofus_Theme_Editor.ViewModels
 
             CountLoadedImage = "0";
 
-            GC.Moving_Window(GW.Get_MainWindow_Instance());
+            GW.Moving_Window(GW.Get_MainWindow_Instance());
         }
 
         #region Fonctions

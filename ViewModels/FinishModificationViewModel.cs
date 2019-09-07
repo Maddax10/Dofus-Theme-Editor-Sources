@@ -4,11 +4,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Toolbox.MVVM.Commands;
+using Gestion_Images.Model;
 using Toolbox.MVVM.ViewModels;
 using Toolbox.Patterns.Mediator;
-using GC = Toolbox.Controls.GestionControls;
-using GW = Toolbox.GestionWindow.GestionWindow;
+using GW = Gestion_Windows.GestionWindow;
+using Toolbox.MVVM.Commands;
 
 namespace Dofus_Theme_Editor.ViewModels
 {
@@ -56,7 +56,7 @@ namespace Dofus_Theme_Editor.ViewModels
 
         private void Move_Window()
         {
-            GC.Moving_Window(FMW);
+            GW.Moving_Window(FMW);
         }
     }
 }

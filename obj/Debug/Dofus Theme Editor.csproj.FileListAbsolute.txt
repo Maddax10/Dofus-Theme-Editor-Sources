@@ -67,3 +67,15 @@ C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual 
 C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.csproj.GenerateResource.cache
 C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.csproj.CoreCompileInputs.cache
 C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\obj\Debug\Dofus Theme Editor.csproj.CopyComplete
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Controls_Style.dll
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Gestion_Fichiers.dll
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Gestion_Images.dll
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Gestion_Windows.dll
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Controls_Style.pdb
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Controls_Style.dll.config
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Gestion_Fichiers.pdb
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Gestion_Fichiers.dll.config
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Gestion_Images.pdb
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Gestion_Images.dll.config
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Gestion_Windows.pdb
+C:\Users\maxim\OneDrive\C#\PROJETS\Dofus\WPF\Créateur de thèmes\Projet Visual Studio\Dofus-Theme-Editor-Sources\Dofus-Theme-Editor-Sources\Dofus Theme Editor\bin\Debug\Gestion_Windows.dll.config

@@ -141,7 +141,23 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\..\..\..\..\Toolbox\Toolbox\Toolbox.csproj">
+    <ProjectReference Include="..\..\..\..\..\..\..\..\OUTILS - PROJETS\WPF\Controls_Style\Controls_Style.csproj">
+      <Project>{e7becd2a-1a01-40f9-991f-b52771adebbd}</Project>
+      <Name>Controls_Style</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\..\..\..\OUTILS - PROJETS\WPF\Gestion_Fichiers\Gestion_Fichiers.csproj">
+      <Project>{30d27af5-4557-4f6d-b273-24821eb6fcf1}</Project>
+      <Name>Gestion_Fichiers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\..\..\..\OUTILS - PROJETS\WPF\Gestion_Image\Gestion_Image.csproj">
+      <Project>{7a83f96c-4024-45b3-b593-15f269bbfe99}</Project>
+      <Name>Gestion_Image</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\..\..\..\OUTILS - PROJETS\WPF\Gestion_Windows\Gestion_Windows.csproj">
+      <Project>{4f35a17e-3fac-4286-bc7d-7534fd2cfe4d}</Project>
+      <Name>Gestion_Windows</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\..\..\..\..\..\..\OUTILS - PROJETS\WPF\Toolbox_MVVM\Toolbox_MVVM.csproj">
       <Project>{322fbee7-5715-4c33-b249-3b2ffa77f8ba}</Project>
       <Name>Toolbox</Name>
     </ProjectReference>
